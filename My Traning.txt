@@ -1,2 +1,5 @@
 			
 			Git and GitHub Practice
+			Create and merge branches
+			Master branch usuallly contains production quality code
+			Fetching data from local repository
